@@ -10,3 +10,4 @@ Bei meinem Programm wird von 1 bis 1000 gezählt. i ist definiert als 1. Es wird
 - Programm ist kurz und knackig
 
 ## Reflexion
+Ich habe gelernt, wie ich einfache Programme auf Python schreibe. Das Programmieren einfacher Programme geht schnell und ist nicht allzu schwierig. Es ist ein grosser Vorteil, wenn man heutzutage eine/mehrere Programmiersprachen beherrscht.
