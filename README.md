@@ -1,7 +1,4 @@
 # Mein Programm
+Bei meinem Programm wird von 1 bis 1000 gezählt.
 
 
-- i = 1
-- while i <= 1000:
-    - print(i)
-    - i = i + 1
